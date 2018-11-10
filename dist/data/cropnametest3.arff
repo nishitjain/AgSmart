@@ -1,0 +1,16 @@
+@relation 'final-weka.filters.unsupervised.attribute.Reorder-R1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,2'
+
+@attribute Plant.start numeric
+@attribute harvested.area numeric
+@attribute temp.at.planting numeric
+@attribute precip.at.planting numeric
+@attribute Crop.name {Wheat,Maize,Beans,Potato,Barley,Rice,Sorghum,Potatoes,Millet,'Winter Wheat',Cotton,'Potato (main)','Winter Rye','Spring Barley','Maize (main)','Maize (second)',Cassava,Yams,Soybean,'Sweet Potato','Beans (main)','Sorghum (main)','Sorghum (second)','Main Wet Season Rice','Dry Season Rice',Pulses,Sugarbeet,'Rice (main)','Rice (second)','Sweet Potatoes','Soya Bean','Potato (Main Season)','Maize (main crop)','Maize (off season crop)','Rice (main crop)','Rice (off season crop)','Wheat (Meher)','Maize (Meher)','Sorghum (Meher)','Millet (Meher)','Oats (Meher)','Barley (Meher)',Groundnut,'Rice (main season)','Rice (second season)','Spring Wheat','Wheat (long rains)','Maize (long rains)','Maize (short rains)','Millet (long rains)','Sorghum (long rains)','Sorghum (short rains)','Barley (long rains)','Beans (long rains)','Rice (wet season)','Rice (dry season)',Sunflower,'Rice (rainfed)','Rice (irrigated)','Rice (off-season)','Winter wheat','Rice (upland)',Cowpea,'Maize (Gu)','Maize (Der)','Millet (main)',Peanut,'Aman rice','Boro rice','Corn (1)',Corn,'Single-crop rice','Early double-crop rice','Late double-crop rice','Spring wheat',Groundnuts,'Winter Rapeseed',Oat,'Barley (winter)',Rapeseed,Sugarbeets,'Winter Barley',Rye,'Sorghum (summer)','Sorghum (winter)',Oats,'Soft wheat','Durum wheat','Winter barley','Spring barley','Winter rapeseed',Sunseed,Soybeans,'Rice (second crop)','Tenth month Rice','Winter-spring Rice','Rice, main crop','Corn, first crop','Corn, Dry season','Corn, rainy season','Corn (2)','Barley - spring','Barley - winter','Beans - dry','Oats - spring','Oats - winter',Peanuts,'Potatoes - fall',Sunflowers,'Sweet potatoes','Wheat - spring','Wheat - winter','Paddy - I','Paddy - II',Bajra,'Jowar (Kharif)','Jowar (Rabi)','Groundnut (Kharif)','Paddy (Kharif)','Paddy (Rabi)',Rape,'Bajra (Kharif)','Wheat (Rabi)','Maize (Kharif)',Paddy,'Cotton (Hybrid)',Jowar,'Cotton (Kharif)','Sunflower (Kharif)','Soyabean (Kharif)','Groundnut (Rabi)',Mung,'Ragi (Kharif)',Gram,'Aman paddy/Kharif','Boro paddy/Rabi','Broom Millet','Cotton (coast)','Cotton (lake)',Sunflowerseed,'Irish Potatoes','Rice (main - north region)','Rice (main - south region)','Rice (second - north region)','Rice (second - south region)','Peanuts (north)','Peanuts (south)','Soybeans (north)','Soybeans (east)','Sweet Potatoes (north)','Sweet Potatoes (south)','Cotton (Gu)','Beans (Gu)','Corn (north - vuli rains)','Millet (north)','Rice (north)','Cotton (west)','Cotton (east)','Soybeans (south)','Wheat (summer)','Sorghum (Gu)','Sorghum (Deyr)'}
+
+@data
+289,1120.28338,9.907873,163.806151,?
+123,14755.5648,34.271499,23.471534,?
+23,234.339219,23.226861,90.206287,?
+227,1445.179478,20.319065,56.5678,?
+145,137.885641,11.183153,157.00987,?
+190,160.426,33.78453,78.297414,?
+165,4568.7456171,37.5855,99.212453,?
